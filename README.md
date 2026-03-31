@@ -7,4 +7,6 @@ While programming this, I had to configure the registers so that analog inputs c
 
 Overall, this project enables a user to set the fan speed and delay time it takes for the fan to reach the desired speed. The user-set times will be displayed on the LCD
 
+Video Demonstration: https://youtu.be/R_pSEabSyCw
+
 <img width="1065" height="1040" alt="image" src="https://github.com/user-attachments/assets/b514a089-111c-4809-a638-b16fda581f44" />
